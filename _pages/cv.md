@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* **Master degree in Physics at University of Padova, 2012**. Thesis "Commissioning and characterization of the calibration system of the MAGIC telescope". The thesis work was performed at Insitut de Fisíca d’Altes Energies, Barcelona (Spain) and discussed in Padova (Italy).
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
